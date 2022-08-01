@@ -1,0 +1,81 @@
+Variable,Path
+Atelectasis,CheXpert-v1.0-small/train/patient01653/study2/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient03614/study5/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient12647/study1/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient25525/study9/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient29826/study1/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient34482/study1/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient37669/study1/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient44359/study1/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient59346/study2/view1_frontal.jpg
+Atelectasis,CheXpert-v1.0-small/train/patient62368/study1/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient04308/study6/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient17664/study8/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient17759/study1/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient21789/study1/view2_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient22061/study1/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient33845/study2/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient33845/study3/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient34767/study1/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient39992/study2/view1_frontal.jpg
+Cardiomegaly,CheXpert-v1.0-small/train/patient45655/study3/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient02946/study7/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient04842/study4/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient09651/study1/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient13556/study1/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient15089/study3/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient18623/study5/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient21684/study7/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient42919/study2/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient57994/study3/view1_frontal.jpg
+Edema,CheXpert-v1.0-small/train/patient64379/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient03011/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient06169/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient09174/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient09959/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient14827/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient18613/study2/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient18714/study4/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient42110/study13/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient50481/study1/view1_frontal.jpg
+Fracture,CheXpert-v1.0-small/train/patient62809/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient00505/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient07405/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient14028/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient16246/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient16289/study2/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient21696/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient30251/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient30402/study3/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient35873/study1/view1_frontal.jpg
+No Finding,CheXpert-v1.0-small/train/patient50033/study1/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient01779/study1/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient05330/study2/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient11851/study5/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient13920/study2/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient16051/study1/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient16149/study1/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient20988/study3/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient25966/study6/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient28052/study10/view1_frontal.jpg
+Pleural Effusion,CheXpert-v1.0-small/train/patient32641/study7/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient11586/study2/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient16067/study5/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient21760/study1/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient21924/study5/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient24382/study1/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient25145/study1/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient27861/study1/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient28516/study4/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient32603/study16/view1_frontal.jpg
+Pneumonia,CheXpert-v1.0-small/train/patient33959/study1/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient03569/study3/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient04774/study30/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient11160/study1/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient12189/study1/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient15392/study1/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient18667/study2/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient31971/study3/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient40396/study9/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient51990/study1/view1_frontal.jpg
+Pneumothorax,CheXpert-v1.0-small/train/patient54603/study2/view1_frontal.jpg

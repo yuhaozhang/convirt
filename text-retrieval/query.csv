@@ -1,0 +1,41 @@
+Variable,Text
+Pneumothorax,An apical pneumothorax is present.
+Pneumothorax,A basilar pneumothorax is seen.
+Pneumothorax,A medial pneumothorax is present adjacent to the heart.
+Pneumothorax,A lateral pleural line suggests pneumothorax.
+Pneumothorax,Pleural air is present.
+Pneumonia,A consolidation at the base likely represents pneumonia.
+Pneumonia,Pneumonia is present.
+Pneumonia,The presence of air bronchograms suggest pneumonia.
+Pneumonia,A fluffy opacity suggests pneumonia.
+Pneumonia,A pulmonary opacity with ill defined borders likely represents pneumonia.
+Fracture,An angulated fracture is present.
+Fracture,An oblique radiolucent line suggests a fracture.
+Fracture,A cortical step off indicates the presence of a fracture.
+Fracture,A communuted displaced fracture is present.
+Fracture,A fracture is present.
+Cardiomegaly,The heart is mildly enlarged.
+Cardiomegaly,Cardiomegaly is present.
+Cardiomegaly,The heart shadow is enlarged.
+Cardiomegaly,The cardiac silhouette is enlarged.
+Cardiomegaly,Cardiac enlargement is seen.
+Pleural Effusion,A pleural effusion is present.
+Pleural Effusion,Blunting of the costophrenic angles represents pleural effusions.
+Pleural Effusion,Trace pleural fluid is present.
+Pleural Effusion,The pleural space is partially filled with fluid.
+Pleural Effusion,Layering pleural effusions are present.
+Edema,Mild interstitial pulmonary edema is present.
+Edema,The presence of hazy opacity suggests interstitial pulmonary edema.
+Edema,Moderate alveolar edema is present.
+Edema,Mild diffuse opacity likely represents pulmonary edema.
+Edema,Cardiogenic edema likely is present.
+Atelectasis,Platelike opacity likely represents atelectasis.
+Atelectasis,Geometric opacity likely represents atelectasis.
+Atelectasis,Atelectasis is present.
+Atelectasis,Basilar opacity and volume loss is likely due to atelectasis.
+Atelectasis,Patchy atelectasis is seen.
+No Finding,The lungs are clear.
+No Finding,No abnormalities are present.
+No Finding,The chest is normal.
+No Finding,No clinically significant radiographic abormalities.
+No Finding,No radiographically visible abnormalities in the chest.
